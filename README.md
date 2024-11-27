@@ -109,9 +109,10 @@ project-folder/
 ├── README.md                # Project documentation
 ```
 
----
 
-## **Screenshots**
+
 ### **Dashboard Overview**
-![Dashboard Overview](C:\Users\ASIF MANZOOR\OneDrive\Pictures\Screenshots\Screenshot 2024-11-27 151912.png)
+![Dashboard Screenshot](https://github.com/Lohitashav/Sales/raw/main/E-Commerce%20Sales/Dashboard/Screenshot%202024-11-27%20151902.png)
+
+![Dashboard Screenshot](https://github.com/Lohitashav/Sales/raw/main/E-Commerce%20Sales/Dashboard/Screenshot%202024-11-27%20151917.png)
 
